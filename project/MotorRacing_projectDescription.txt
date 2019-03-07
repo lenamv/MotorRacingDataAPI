@@ -1,0 +1,10 @@
+The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes.
+
+API Documentation : http://ergast.com/mrd/
+
+Driver Information Module Documentation : http://ergast.com/mrd/methods/drivers/
+
+API functional tests of Driver Information Module using Rest Assured framework, Java.
+
+
+			 |
