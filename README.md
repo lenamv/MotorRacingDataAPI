@@ -1,6 +1,6 @@
 ### Project:
 
-API functional tests of Driver Information Module using Rest Assured framework, Java.
+API functional tests of Driver Information Module of the Ergast Developer API using Rest Assured framework, Java.
 
 
 
