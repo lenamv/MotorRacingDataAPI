@@ -17,3 +17,5 @@ API Documentation : http://ergast.com/mrd/
 Driver Information Module Documentation : http://ergast.com/mrd/methods/drivers/
 
 Tests: https://github.com/lenamv/MotorRacingDataAPI
+
+Schema of the Project: https://github.com/lenamv/MotorRacingDataAPI/blob/master/project/MotorRacing_projectSchema.jpg
